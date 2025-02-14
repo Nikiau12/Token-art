@@ -1,0 +1,24 @@
+{
+    "name": "PUTINISAKILLER",
+    "symbol": "PIK",
+    "description": "ART is a digital token created to promote art in the world. It will be used to organise exhibitions, auctions and support artists on the Solana blockchain.",
+    "uri": "https://nikiau12.github.io/Token-art/",
+    "image": "https://nikiau12.github.io/Token-art/img2/photo_2024-09-28_15-15-46.jpeg",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "ExtVjrPxtkkWk9oX7VpgQA2sGb53hpAKRwfSJDLqDjDg",
+        "share": 100
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Art"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Nikita Kotrelev"
+      }
+    ]
+}
