@@ -1,21 +1,16 @@
 {
-    "name": "Art",
-    "symbol": "ART",
-    "description": "ART Token is a digital asset created to unite and support a community of art lovers and creators. It serves as a key to exclusive opportunities in the art world: from participation in private exhibitions and art events to access to unique collaborations with galleries and artists. Token holders not only get the opportunity to invest in digital art, but also to participate in the development of the art scene by influencing the selection of projects and supporting young talents.",
-    "image": "img2/photo_2024-09-28 15.15.46.jpeg",
-    "attributes": [
-      {
-        "trait_type": "part",
-        "value": "utilitarian"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "img2/photo_2024-09-28 15.15.46.jpeg",
-          "type": "img2/jpeg"
-        }
-      ]
+  "name": "ART",
+  "symbol": "ART",
+  "uri": "https://nikiau12.github.io/Token-art/metadata.json",
+  "image": "img2/photo_2024-09-28 15.15.46.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Nikita Kotrelev"
     }
-  }
-  
+  ]
+}
